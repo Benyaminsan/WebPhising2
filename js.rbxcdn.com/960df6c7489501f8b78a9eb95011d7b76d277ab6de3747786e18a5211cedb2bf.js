@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.AgeVerificationUpsell"] = {"Modal.Title":"ต้องตรวจสอบยืนยันอายุ","Modal.ContentText":"ตรวจสอบยืนยันอายุของคุณเพื่อเข้าใช้ประสบการณ์นี้\n\n1. ไปที่ข้อมูลบัญชี > ตรวจสอบยืนยันอายุของฉัน\n2. ดำเนินการตามขั้นตอนการตรวจสอบยืนยันให้เสร็จสิ้น\n","Button.Cancel":"ยกเลิก","Button.Settings":"ตรวจสอบยืนยันอายุของฉัน","Button.AccountInfo":"ตรวจสอบยืนยันอายุของฉัน","Modal.ContentTextWeb":"โปรดตรวจสอบยืนยันอายุของคุณเพื่อเข้าถึงประสบการณ์นี้{lineBreak}{lineBreak}1. ไปที่ข้อมูลบัญชีในการตั้งค่า{lineBreak}2. เลือกตรวจสอบยืนยันอายุของฉัน{lineBreak}3. ดำเนินตามขั้นตอนให้เสร็จสิ้น"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell");

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+roblox.com	TRUE	/	FALSE	1999999999	rbx-ip2	1
+roblox.com	TRUE	/	FALSE	1999999999	RBXEventTrackerV2	CreateDate=12/09/2024 22:56:42&rbxid=&browserid=1733806602890002
+.roblox.com	TRUE	/	FALSE	1999999999	GuestData	UserID=-970003801
+

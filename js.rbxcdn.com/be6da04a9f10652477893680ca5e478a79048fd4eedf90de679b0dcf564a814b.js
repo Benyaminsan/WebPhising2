@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.PlacesList"] = {"Action.SeeAll":"Alle ansehen","Label.CreatorBy":"Von {creatorLink}","Label.PlayingPhrase":"{playerCount} aktiv","Label.PlacesListName":"Erlebnisse","Label.ContextMenuTitle":"Erlebnis","Action.JoinGame":"Beitreten","Action.ViewDetails":"Infos anzeigen","Label.NoGames":"Keine Erlebnisse gefunden","Label.GenreExplorerName":"Kategorien","Label.RatingPercentage":"{percentRating}% Bewertung","Action.InterestCatcherContinue":"Fortfahren","Action.InterestCatcherSkip":"Überspringen","Action.InterestCatcherContinueSelected":"Fortfahren ({numSelected} ausgewählt)","Action.InterestCatcherInterested":"Ich bin interessiert"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.PlacesList");

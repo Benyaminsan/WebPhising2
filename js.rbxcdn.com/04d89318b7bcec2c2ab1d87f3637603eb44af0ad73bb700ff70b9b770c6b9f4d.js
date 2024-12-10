@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.PlacesList"] = {"Action.SeeAll":"ดูทั้งหมด","Label.CreatorBy":"โดย {creatorLink}","Label.PlayingPhrase":"กำลังใช้งานอยู่: {playerCount} คน","Label.PlacesListName":"ประสบการณ์","Label.ContextMenuTitle":"ประสบการณ์","Action.JoinGame":"เข้าร่วม","Action.ViewDetails":"ดูรายละเอียด","Label.NoGames":"ไม่พบประสบการณ์","Label.GenreExplorerName":"หมวดหมู่","Label.RatingPercentage":"เรตติ้ง {percentRating}%","Action.InterestCatcherContinue":"ดำเนินการต่อ","Action.InterestCatcherSkip":"ข้าม","Action.InterestCatcherContinueSelected":"ดําเนินต่อ (เลือกแล้ว {numSelected} รายการ)","Action.InterestCatcherInterested":"ฉันสนใจ"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.PlacesList");

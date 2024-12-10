@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.PlacesList"] = {"Action.SeeAll":"Tümünü Gör","Label.CreatorBy":"{creatorLink} tarafından","Label.PlayingPhrase":"{playerCount} Etkin Oyuncu","Label.PlacesListName":"Deneyimler","Label.ContextMenuTitle":"Deneyim","Action.JoinGame":"Katıl","Action.ViewDetails":"Ayrıntıları Görüntüle","Label.NoGames":"Hiçbir deneyim bulunamadı","Label.GenreExplorerName":"Kategoriler","Label.RatingPercentage":"%{percentRating} Derecelendirme","Action.InterestCatcherContinue":"Devam","Action.InterestCatcherSkip":"Atla","Action.InterestCatcherContinueSelected":"Devam ({numSelected} seçildi)","Action.InterestCatcherInterested":"İlgileniyorum"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.PlacesList");

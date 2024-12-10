@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Common.AlertsAndOptions"] = {"Label.sRobux":"Robux","Label.sBuyRobux":"Mua Robux","Label.sSettings":"Cài đặt","Label.sHelp":"Trợ giúp","Label.sLogout":"Đăng xuất","Label.sRobuxMessage":"{robuxValue} Robux","Label.sQuickLogin":"Đăng Nhập nhanh","Labels.sQuickLogInWeb":"Đăng nhập nhanh","Description.KoreaScreentimeToastText":"Trải nghiệm quá nhiều có thể gây ra những cản trở trong cuộc sống đời thường. Bạn đã chơi Roblox trong {NumberOfHours} giờ.","Title.Warning":"Cảnh báo","Action.OK":"OK","Action.SkipToMainContent":"Chuyển đến Nội dung chính","Label.sSwitchAccount":"Chuyển đổi tài khoản","Description.AccountSwitchedConfirmationBannerText":"Bạn đã chuyển sang {accountName}","Labels.NewItem":"Vật phẩm mới"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Common.AlertsAndOptions");

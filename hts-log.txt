@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Dec 2024 11:56:41 at https://www.roblox.com/login +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.roblox.com/login -O1 "C:\My Web Sites\WEBPhising" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:56:43	Warning: 	Note: due to https://www.roblox.com remote robots.txt rules, links beginning with these path will be forbidden: *.ashx, /abusereport/, /*/abusereport/, /admi/, /ads/, /catalog/contents, /catalog/html, /client-status, /data/, /error/, /forum/, /Forum/, /game/report-event, /game/report-stats, /ide/clienttoolbox, /javascript/, /reports/, /thumbnail/resolve-hash, /thumbnail_holder/g, /viewapp/, /error.html, /offline.html, /badges/, /*/badges/, /*.aspx$ (see in the options to disable this)
+11:57:42	Error: 	"Not Found" (404) at link https://www.roblox.com/GET (from https://www.roblox.com/login)
+11:57:42	Error: 	"Not Found" (404) at link https://www.roblox.com/POST (from https://www.roblox.com/login)
+12:00:48	Error: 	"Bad Request" (400) at link https://ecsv2.roblox.com/www/e.png (from https://www.roblox.com/login)
+12:01:43	Error: 	"Not Found" (404) at link https://www.roblox.com/de/GET (from https://www.roblox.com/de/login)
+12:01:43	Error: 	"Not Found" (404) at link https://www.roblox.com/de/POST (from https://www.roblox.com/de/login)
+12:01:45	Error: 	"Not Found" (404) at link https://www.roblox.com/es/GET (from https://www.roblox.com/es/login)
+12:01:45	Error: 	"Not Found" (404) at link https://www.roblox.com/es/POST (from https://www.roblox.com/es/login)
+12:01:46	Error: 	"Not Found" (404) at link https://www.roblox.com/fr/GET (from https://www.roblox.com/fr/login)
+12:01:46	Error: 	"Not Found" (404) at link https://www.roblox.com/fr/POST (from https://www.roblox.com/fr/login)
+12:01:47	Error: 	"Not Found" (404) at link https://www.roblox.com/id/GET (from https://www.roblox.com/id/login)
+12:01:47	Error: 	"Not Found" (404) at link https://www.roblox.com/id/POST (from https://www.roblox.com/id/login)
+12:01:48	Error: 	"Not Found" (404) at link https://www.roblox.com/it/GET (from https://www.roblox.com/it/login)
+12:01:48	Error: 	"Not Found" (404) at link https://www.roblox.com/it/POST (from https://www.roblox.com/it/login)
+12:01:49	Error: 	"Not Found" (404) at link https://www.roblox.com/ja/GET (from https://www.roblox.com/ja/login)
+12:01:49	Error: 	"Not Found" (404) at link https://www.roblox.com/ja/POST (from https://www.roblox.com/ja/login)
+12:01:50	Error: 	"Not Found" (404) at link https://www.roblox.com/ko/GET (from https://www.roblox.com/ko/login)
+12:01:50	Error: 	"Not Found" (404) at link https://www.roblox.com/ko/POST (from https://www.roblox.com/ko/login)
+12:01:52	Error: 	"Not Found" (404) at link https://www.roblox.com/pl/GET (from https://www.roblox.com/pl/login)
+12:01:52	Error: 	"Not Found" (404) at link https://www.roblox.com/pl/POST (from https://www.roblox.com/pl/login)
+12:01:53	Error: 	"Not Found" (404) at link https://www.roblox.com/pt/GET (from https://www.roblox.com/pt/login)
+12:01:53	Error: 	"Not Found" (404) at link https://www.roblox.com/pt/POST (from https://www.roblox.com/pt/login)
+12:01:54	Error: 	"Not Found" (404) at link https://www.roblox.com/th/GET (from https://www.roblox.com/th/login)
+12:01:54	Error: 	"Not Found" (404) at link https://www.roblox.com/th/POST (from https://www.roblox.com/th/login)
+12:01:56	Error: 	"Not Found" (404) at link https://www.roblox.com/tr/GET (from https://www.roblox.com/tr/login)
+12:01:56	Error: 	"Not Found" (404) at link https://www.roblox.com/tr/POST (from https://www.roblox.com/tr/login)
+12:01:57	Error: 	"Not Found" (404) at link https://www.roblox.com/vi/GET (from https://www.roblox.com/vi/login)
+12:01:57	Error: 	"Not Found" (404) at link https://www.roblox.com/vi/POST (from https://www.roblox.com/vi/login)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 55 seconds : 994 links scanned, 965 files written (31066310 bytes overall) [9280021 bytes received at 26140 bytes/sec], 32748608 bytes transferred using HTTP compression in 756 files, ratio 22%, 8.2 requests per connection
+(27 errors, 1 warnings, 0 messages)

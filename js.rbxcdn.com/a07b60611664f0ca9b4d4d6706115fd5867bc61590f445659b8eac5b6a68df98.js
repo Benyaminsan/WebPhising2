@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Common.AlertsAndOptions"] = {"Label.sRobux":"Robux","Label.sBuyRobux":"Robuxを購入","Label.sSettings":"設定","Label.sHelp":"ヘルプ","Label.sLogout":"ログアウト","Label.sRobuxMessage":"{robuxValue} Robux","Label.sQuickLogin":"クイックサインイン","Labels.sQuickLogInWeb":"クイックログイン","Description.KoreaScreentimeToastText":"過剰なバーチャル空間の使用は日常生活に支障をきたすことがあります。これまで、Robloxに {NumberOfHours} 時間訪問しました。","Title.Warning":"警告","Action.OK":"OK","Action.SkipToMainContent":"スキップして主なコンテンツへ","Label.sSwitchAccount":"アカウントを切り替える","Description.AccountSwitchedConfirmationBannerText":"{accountName} に切り替えました","Labels.NewItem":"新着アイテム"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Common.AlertsAndOptions");

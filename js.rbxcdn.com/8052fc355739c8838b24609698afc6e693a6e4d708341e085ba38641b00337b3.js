@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Common.AlertsAndOptions"] = {"Label.sRobux":"Robux","Label.sBuyRobux":"Robux 구매","Label.sSettings":"설정","Label.sHelp":"도움말","Label.sLogout":"로그아웃","Label.sRobuxMessage":"{robuxValue} Robux","Label.sQuickLogin":"빠른 로그인","Labels.sQuickLogInWeb":"빠른 로그인","Description.KoreaScreentimeToastText":"체험 방문이 지나치게 길어지면 일상 생활에 지장을 줄 수 있습니다. 현재까지의 총 방문 시간은 {NumberOfHours}시간입니다.","Title.Warning":"경고","Action.OK":"확인","Action.SkipToMainContent":"주요 콘텐츠로 건너뛰기","Label.sSwitchAccount":"계정 전환","Description.AccountSwitchedConfirmationBannerText":"{accountName}(으)로 전환했습니다","Labels.NewItem":"신규 아이템"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Common.AlertsAndOptions");

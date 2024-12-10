@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.PlacesList"] = {"Action.SeeAll":"Lihat Semua","Label.CreatorBy":"Oleh {creatorLink}","Label.PlayingPhrase":"{playerCount} Aktif","Label.PlacesListName":"Pengalaman Virtual","Label.ContextMenuTitle":"Pengalaman Virtual","Action.JoinGame":"Bergabung","Action.ViewDetails":"Lihat Detail","Label.NoGames":"Tidak menemukan pengalaman virtual","Label.GenreExplorerName":"Kategori","Label.RatingPercentage":"Rating {percentRating}%","Action.InterestCatcherContinue":"Lanjutkan","Action.InterestCatcherSkip":"Lewati","Action.InterestCatcherContinueSelected":"Lanjutkan ({numSelected} terpilih)","Action.InterestCatcherInterested":"Saya Tertarik"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.PlacesList");

@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.AgeVerificationUpsell"] = {"Modal.Title":"Yêu Cầu Xác Thực Tuổi","Modal.ContentText":"Xác thực tuổi của bạn để truy cập trải nghiệm này.\n\n1. Truy cập Thông Tin Tài Khoản > Xác Thực Tuổi Của Tôi\n2. Hoàn thành quy trình xác thực\n","Button.Cancel":"Hủy Bỏ","Button.Settings":"Xác Thực Tuổi Của Tôi","Button.AccountInfo":"Xác Thực Tuổi Của Tôi","Modal.ContentTextWeb":"Vui lòng xác thực tuổi của bạn để truy cập trải nghiệm này.{lineBreak}{lineBreak}1. Truy cập Thông Tin Tài Khoản trong Cài Đặt{lineBreak}2. Chọn Xác Thực Tuổi Của Tôi{lineBreak}3. Hoàn thành quy trình"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell");

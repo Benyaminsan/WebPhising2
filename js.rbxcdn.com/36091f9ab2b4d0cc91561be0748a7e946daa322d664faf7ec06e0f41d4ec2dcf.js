@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.EmailVerificationChallenge"] = {"Header.EnterCode":"Wprowadź kod weryfikacyjny","Header.VerifyYourAccount":"Aby przejść dalej, zweryfikuj swój adres e-mail","Description.SuspiciousActivityEmailVerification":"Ma to na celu sprawdzenie, czy jesteś człowiekiem","Description.EnterCode":"Wprowadź kod, który właśnie wysłaliśmy na twój adres e-mail.","Header.ConfirmAbandon":"Zrezygnować z weryfikacji?","Description.ConfirmAbandon":"Zrezygnowanie z weryfikacji uniemożliwi ukończenie tego działania.","Label.ConfirmAbandon":"Zrezygnuj","Label.RejectAbandon":"Wróć"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.EmailVerificationChallenge");

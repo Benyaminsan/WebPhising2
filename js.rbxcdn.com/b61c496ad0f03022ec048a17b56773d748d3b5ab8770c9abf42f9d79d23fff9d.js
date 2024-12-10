@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.AgeVerificationUpsell"] = {"Modal.Title":"Verifikasi Usia Diperlukan","Modal.ContentText":"Verifikasi usia kamu sebelum mengakses pengalaman virtual ini.\n\n1. Buka Info Akun > Verifikasi Usia Saya\n2. Selesaikan proses verifikasi\n","Button.Cancel":"Batalkan","Button.Settings":"Verifikasi Usia Saya","Button.AccountInfo":"Verifikasi Usia Saya","Modal.ContentTextWeb":"Harap verifikasi usia kamu untuk mengakses pengalaman virtual ini.{lineBreak}{lineBreak}1. Buka Info Akun di Pengaturan{lineBreak}2. Pilih Verifikasi Usia Saya{lineBreak}3. Selesaikan proses"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell");

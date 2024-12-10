@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.AgeVerificationUpsell"] = {"Modal.Title":"Altersverifizierung erforderlich","Modal.ContentText":"Verifiziere dein Alter, um auf das Erlebnis zuzugreifen.\n\n1. Gehe zu Kontodetails > Mein Alter verifizieren\n2. Schließe den Verifizierungsprozess ab\n","Button.Cancel":"Abbrechen","Button.Settings":"Mein Alter verifizieren","Button.AccountInfo":"Mein Alter verifizieren","Modal.ContentTextWeb":"Bitte verifiziere dein Alter, um auf dieses Erlebnis zugreifen zu können.{lineBreak}{lineBreak}1. Gehe zu Kontodetails in den Einstellungen{lineBreak}2. Wähle Mein Alter verifizieren{lineBreak}3. Schließe den Vorgang ab"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell");
